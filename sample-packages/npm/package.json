@@ -1,3 +1,20 @@
 {
-  "your": "json config here"
+  "your": "json config here",
+  "name": "@rdesingraj/test-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdesingraj/test-package.git"
+  },
+  "author": "desingraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdesingraj/test-package/issues"
+  },
+  "homepage": "https://github.com/rdesingraj/test-package#readme",
+  "description": ""
 }
