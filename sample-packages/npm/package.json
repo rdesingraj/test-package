@@ -1,13 +1,12 @@
 {
-  "your": "json config here",
-  "name": "@rdesingraj/test-package",
+  "name": "test-package",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "exit 0"
   },
   "publishConfig": {
-    "@rdesingraj:registry": "https://npm.pkg.github.com"
+    "rdesingraj:registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
